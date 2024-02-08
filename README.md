@@ -19,3 +19,17 @@ ChatPDF leverages advanced AI technologies to create a conversational interface 
 ```bash
 python -m venv chatpdf-env
 source chatpdf-env/bin/activate  # On Windows use `chatpdf-env\Scripts\activate`
+
+## Usage 
+Initialize the Application
+
+Clone the repository and navigate to the project directory.
+Install all required dependencies.
+Start the Streamlit Application
+
+Run the following command in your terminal:
+-streamlit run chatrag.py
+The Streamlit interface will open in your browser, where you can upload PDF documents and interact with the chat interface.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
